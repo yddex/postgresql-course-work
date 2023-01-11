@@ -2,6 +2,7 @@
 
 [Требования](https://docs.google.com/document/d/13DG2v5SuDFbKPTexQ-84QOF5ehiSGfrKQZyTrN5I3F4/edit)
 
+> Для проекта выбрал bitrix24, точнее часть его функционала из "Совместной работы" 
 <br>
 
 ##### Структура
